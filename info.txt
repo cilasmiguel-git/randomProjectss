@@ -1,0 +1,10 @@
+#instalações
+npm intall
+npm install --save sequelize
+npm install --save-dev @types/sequelize
+npm install mysql2
+
+------------------------
+prodeto de aprendizagem
+de banco de dados
+------------------------
